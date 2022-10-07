@@ -1,0 +1,72 @@
+.App {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: #fff;
+}
+
+.container {
+    margin-bottom: 25px;
+}
+
+.container h1 {
+    text-align: center;
+    font-size: 2.2em;
+    margin-bottom: 12.5px;
+}
+
+.containerInput {
+    width: 250px;
+    height: 40px;
+    background-color: rgba(255, 255, 255, 0.2);
+    box-shadow: 1px 3px 8px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.containerInput input {
+    background: none;
+    border: none;
+    outline: none;
+    color: #fff;
+}
+
+.containerInput input::placeholder {
+    color: #aaa;
+}
+
+.containerInput button {
+    background: none;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    transform: scale(0.9);
+    transition: transform .4s;
+}
+
+.containerInput button:hover {
+    transform: scale(1.1);
+}
+
+.content {
+    margin-top: 25px;
+    text-align: center;
+    width: 250px;
+    height: 150px;
+    background-color: rgba(255, 255, 255, 0.2);
+    box-shadow: 1px 3px 8px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.content h2 {
+    font-size: 20px;
+    margin-bottom: 12.5px;
+}
