@@ -21,7 +21,7 @@
 
 ### Rodando A Aplicação
 
-<a href="https://matheuspalmieri-zipcode-searchengine.netlify.app/">Site do Projeto</a>
+<a href="https://matheuspalmieri-zipcode-searchengine.netlify.app/" target="_blank">Site do Projeto</a>
 
 ---
 
