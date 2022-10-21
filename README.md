@@ -9,7 +9,6 @@
 <!-- Súmario -->
 
 <p align="center">
- <a href="#features">Features</a> •
  <a href="#rodando-a-aplicação">Rodando A Aplicação</a> •
  <a href="#tecnologias">Tecnologias</a> •
  <a href="#autor">Autor</a>
