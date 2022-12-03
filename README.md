@@ -22,7 +22,7 @@
  <a href="https://matheuspalmieri-zipcode-searchengine.netlify.app/">Site Do Projeto</a>
 </p>
 
-<img src="src/assets/image.png" width="1280px" align="center">
+<img src="assets/image.png" width="1280px" align="center">
 
 ---
 
