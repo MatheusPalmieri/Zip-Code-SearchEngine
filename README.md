@@ -37,6 +37,7 @@
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [React JS](https://pt-br.reactjs.org/)
+- [JavaScript](https://www.javascript.com/)
 - [NPM](https://github.com/facebook/create-react-app)
 
 ---
